@@ -7,3 +7,5 @@ The project can be viewed live at : [https://ahmetalper0.github.io/bootstrap-4-w
 ## Screenshots
 
 ![Website](website.png)
+
+![Website](website2.png)
